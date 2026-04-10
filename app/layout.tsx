@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     description: "Build a Sales Engine That Just Works Even When You're Busy. MSPWired gives MSPs one system that keeps everything moving.",
     images: [
       {
-        url: "/opengraph.jpg",
+        url: "/shift-tech.png",
         width: 1200,
         height: 630,
         alt: "MSPWired - MSP Sales Automation",
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "MSPWired | MSP Sales Automation & Revenue Forecasting",
     description: "Stop guessing and start selling. Your MSP sales process, automated.",
-    images: ["/opengraph.jpg"],
+    images: ["/shift-tech.png"],
     creator: "@mspwired",
   },
   robots: {
