@@ -150,7 +150,7 @@ const PROOF_POINTS = [
   {
     label: "Not Another Tool",
     title: "A working system, not just features",
-    body: "Most platforms give you features. MSPWired gives you a working system designed for MSPs, so you don't have to build one from scratch.",
+    body: "Most platforms give you features. MSPWired gives you a working system designed for MSPs, so you don&apos;t have to build one from scratch.",
   },
   {
     label: "MSP-Specific",
@@ -158,7 +158,7 @@ const PROOF_POINTS = [
     body: "MSPWired is purpose-built for managed service providers — not a generic CRM adapted after the fact. It fits how you work.",
   },
   {
-    label: "Who It's For",
+    label: "Who It&apos;s For",
     title: "Teams ready to stop patching their process",
     body: "MSP owners running sales themselves, small teams without a defined process, and leaders tired of managing multiple tools.",
   },
@@ -379,7 +379,7 @@ export default function Home() {
                 fontSize: "3.4rem", fontWeight: 800, lineHeight: 1.1, letterSpacing: "-0.04em", 
                 marginBottom: 24, color: "#fff",
               }}>
-                Build a Sales Engine That Just Works Even When You're Busy.
+                Build a Sales Engine That Just Works Even When You&apos;re Busy.
               </h1>
 
               <p style={{ fontSize: 18, color: "rgba(255,255,255,0.85)", lineHeight: 1.6, marginBottom: 40, maxWidth: 520 }}>
@@ -575,10 +575,10 @@ export default function Home() {
                   borderRadius: 20, padding: "4px 12px", color: "#8ea10a", marginBottom: 24,
                 }}>The Problem</span>
                 <h2 style={{ fontSize: "clamp(1.5rem, 3vw, 2.2rem)", fontWeight: 800, letterSpacing: "-0.025em", lineHeight: 1.2, marginBottom: 16 }}>
-                  Your sales stack shouldn't feel like it's <OliveGrad>held together with duct tape.</OliveGrad>
+                  Your sales stack shouldn&apos;t feel like it&apos;s <OliveGrad>held together with duct tape.</OliveGrad>
                 </h2>
                 <p style={{ fontSize: 16, color: "#555", marginBottom: 32, lineHeight: 1.6 }}>
-                  CRM. Spreadsheets. Email. SMS. Individually, they work. Together, they don't. Stop missing
+                  CRM. Spreadsheets. Email. SMS. Individually, they work. Together, they don&apos;t. Stop missing
                   follow-ups and stalling your own deals.
                 </p>
                 <ul style={{ display: "flex", flexDirection: "column", gap: 16 }}>
@@ -659,7 +659,7 @@ export default function Home() {
             </h2>
             <p style={{ fontSize: 16, color: "#555", maxWidth: 600, lineHeight: 1.6, marginBottom: 48 }}>
               MSPWired is a sales automation and forecasting system that installs a proven sales motion into
-              your business. Stop guessing at what's next. Know with MSPWired.
+              your business. Stop guessing at what&apos;s next. Know with MSPWired.
             </p>
           </FadeUp>
 
@@ -735,7 +735,7 @@ export default function Home() {
             </h2>
             <p style={{ fontSize: 15, color: "#555", maxWidth: 640, lineHeight: 1.6, marginBottom: 48 }}>
               Most platforms give you features. MSPWired gives you a working system designed for MSPs,
-              so you don't have to build one from scratch or hire a consultant to make sense of it.
+              so you don&apos;t have to build one from scratch or hire a consultant to make sense of it.
             </p>
           </FadeUp>
 
@@ -992,7 +992,7 @@ export default function Home() {
 
                   <div style={{ marginBottom: 20 }}>
                     <label style={{ display: "block", fontSize: 12, fontWeight: 600, color: "#555", marginBottom: 6, textTransform: "uppercase", letterSpacing: "0.05em" }}>
-                      What's your main sales challenge?
+                      What&apos;s your main sales challenge?
                     </label>
                     <textarea
                       rows={4}
